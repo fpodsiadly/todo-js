@@ -9,6 +9,9 @@ Currently, two official plugins are available:
 # todo-js
 
 Commands:
-npm run dev: "vite".
-npm run build: "vite build".
+
+npm run dev: "vite"
+
+npm run build: "vite build"
+
 npm run preview: "vite preview"
