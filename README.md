@@ -10,11 +10,6 @@ Currently, two official plugins are available:
 
 Commands:
 
-
-npm run + 
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview"
-  },
+npm run dev: "vite",
+npm run build: "vite build",
+npm run preview: "vite preview"
